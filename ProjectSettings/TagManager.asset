@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Obstacle
+  - Fruits
+  - Trap
+  - Buff
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Ground
+  - Water
+  - UI
+  - Player
+  - Obstacle
+  - Fruits
+  - Background
+  - Trap
+  - Terrain
+  - Buff
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 728703185
+    locked: 0
+  - name: Trap
+    uniqueID: 2120864193
+    locked: 0
+  - name: Terrain
+    uniqueID: 2112681703
+    locked: 0
+  - name: Obstacle
+    uniqueID: 3087984171
+    locked: 0
+  - name: Fruits
+    uniqueID: 3964996173
+    locked: 0
+  - name: Player
+    uniqueID: 347863629
+    locked: 0
+  - name: Buff
+    uniqueID: 4046715077
+    locked: 0
